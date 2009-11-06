@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Email-MIME-Creator-ISO_2022_JP
-version:            0.01
+version:            0.02
 abstract:           Email::MIME mixin to create an iso-2022-jp mail
 author:
     - Kenichi Ishigaki <ishigaki@cpan.org>
